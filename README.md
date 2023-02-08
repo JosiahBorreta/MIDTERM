@@ -22,9 +22,9 @@
     </ol>
     <p style="font-family: sans-serif; font-size: 20px;">Overall, orange juice is a delicious and nutritious drink that I can't get enough of it's addictive. Whether I'm sipping it straight from the glass or using it in a recipe. I always feel happy after drinking it.</p>
   </body>
-</html>
+
 <head>
-  html>
+
   <head>
   </head>
   <body>
