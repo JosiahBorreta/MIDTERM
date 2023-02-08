@@ -18,7 +18,7 @@
     <ol style="font-family: sans-serif; font-size: 20px;">
       <li>It's sweet and refreshing. Orange juice has a natural sweetness that's both satisfying and thirst-quenching it helps becuase my mouth always be craving that shit. It's the perfect drink for a hot summer day or after a workout, LIKE THE GYM.</li>
       <li>It's packed with nutrients, Orange juice is a great source of Vitamin C, which is important for maintaining a healthy immune system. It also contains other essential vitamins and minerals like potassium and thiamin. and it tastes amazing.</li>
-      <li>It's versatile Orange juice can be used in a variety of drinks and cocktails, making it a staple in my kitchen. I love using it to make homemade orange juice and smoothies. or even vodka mix for when we party and get F**KED</li>
+      <li>It's versatile Orange juice can be used in a variety of drinks and cocktails, making it a staple in my kitchen. I love using it to make homemade orange juice, smoothies or even vodka mix for when we party and get F**KED.</li>
     </ol>
     <p style="font-family: sans-serif; font-size: 20px;">Overall, orange juice is a delicious and nutritious drink that I can't get enough of it's addictive. Whether I'm sipping it straight from the glass or using it in a recipe. I always feel happy after drinking it.</p>
   </body>
