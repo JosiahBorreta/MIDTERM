@@ -12,7 +12,7 @@
     <h2>Taste Comparison</h2>
     <p>When it comes to taste, the decision between orange juice and apple juice is largely a matter of personal preference. However, many people find that orange juice has a sweeter and more refreshing taste compared to apple juice. This is because oranges naturally have a higher sugar content, which provides a satisfying sweetness. Additionally, the bright, juicy flavor of orange juice makes it a popular choice for drinks and cocktails, while apple juice can sometimes taste too tart or bitter for
       
-        <head>
+       
   </head>
   <body>
     <h1 style="font-family: sans-serif; text-align: center;">Why I Love Orange Juice</h1>
