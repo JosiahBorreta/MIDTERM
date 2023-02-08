@@ -26,12 +26,11 @@
 <head>
   html>
   <head>
-    <title>An Image in HTML</title>
   </head>
   <body>
-    <h1 style="font-family: sans-serif; text-align: center;">An Image in HTML</h1>
+    <h1 style="font-family: sans-serif; text-align: center;"></h1>
     <p style="font-family: sans-serif; font-size: 20px;">Here's an image of a beautiful sunset:</p>
-    <img src="https://via.placeholder.com/150" alt="A beautiful sunset">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FB9780128022306000126&psig=AOvVaw0TAtUf8V1IC11bpTej4ONC&ust=1675982620956000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCND_lPj_hv0CFQAAAAAdAAAAABAO" alt="A beautiful sunset">
   </body>
 </html>
   <h4>Im not adding a reason why apple juice is better... Because its just not on the same level as orange Juice.</h4>
