@@ -2,8 +2,6 @@
 
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Why Orange Juice is Better than Apple Juice</title>
   </head>
   <body>
     <h1>Why Orange Juice is Better than Apple Juice</h1>
