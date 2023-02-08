@@ -24,5 +24,16 @@
   </body>
 </html>
 <head>
+  html>
+  <head>
+    <title>An Image in HTML</title>
+  </head>
+  <body>
+    <h1 style="font-family: sans-serif; text-align: center;">An Image in HTML</h1>
+    <p style="font-family: sans-serif; font-size: 20px;">Here's an image of a beautiful sunset:</p>
+    <img src="https://via.placeholder.com/150" alt="A beautiful sunset">
+  </body>
+</html>
   <h4>Im not adding a reason why apple juice is better... Because its just not on the same level as orange Juice.</h4>
   <h6>Also Because NO ONE F**KS WITH APPLE JUICE.</h6>
+ 
