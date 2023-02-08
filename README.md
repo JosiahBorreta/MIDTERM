@@ -24,5 +24,5 @@
   </body>
 </html>
 <head>
-  <h4>Im not adding a reason why apple juice is better... Because its just not on the same level as Orange Juice</h4>
-  <h6>BTW NO ONE F**KS WITH APPLE JUICE.</h6>
+  <h4>Im not adding a reason why apple juice is better... Because its just not on the same level as orange Juice.</h4>
+  <h6>Also Because NO ONE F**KS WITH APPLE JUICE.</h6>
