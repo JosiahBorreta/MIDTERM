@@ -29,7 +29,7 @@
   </head>
   <body>
     <h1 style="font-family: sans-serif; text-align: center;"></h1>
-    <p style="font-family: sans-serif; font-size: 20px;">Here's an image of a beautiful sunset:</p>
+    <p style="font-family: sans-serif; font-size: 20px;">Orange juice on top:</p>
     <img src="https://ars.els-cdn.com/content/image/3-s2.0-B9780128022306000126-f12-02-9780128022306.jpg" alt="A beautiful sunset">
   </body>
 </html>
